@@ -1,2 +1,5 @@
 # njRAT-Platinum-Edition-RuS
-I modified njrat platinum edition just for fun turned out cool
+-----------------------------------------------
++added new sound alert (you spin me right round)
++added greeting at the entrance
++everything is translated into Russian
